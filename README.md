@@ -1,4 +1,4 @@
-### Hi there 👋 ! This is Raghvendra
+<h1 align="center">Hi there <img src="https://github.com/raghvendra-dixit/raghvendra-dixit/blob/main/gifs/Hi.gif" width="35">! This is Raghvendra <img src="https://github.com/raghvendra-dixit/raghvendra-dixit/blob/main/gifs/smartyemoji.gif" width="35"></h1>
 
 <!--
 **raghvendra-dixit/raghvendra-dixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
